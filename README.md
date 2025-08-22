@@ -5,7 +5,7 @@ The goal is to practice Python fundamentals such as file handling, data parsing,
 
 ## 📂 Files
 - **cal.py** → A simple calculator that performs +, -, *, /
-- **csv_reader.py** → Reads data from `data.csv` and prints each row
+- **csvreader.py** → Reads data from `data.csv` and prints each row
 - **data.csv** → Sample CSV file with example data
 - **text_cleaner.py** → Cleans a text file by removing blank lines and extra spaces
 - **messy_text.txt** → Sample messy text file for cleaning
