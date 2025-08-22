@@ -1,0 +1,8 @@
+Hello,   this    is  a test.    
+
+This   file has   
+     
+extra   spaces and blank   lines.     
+
+
+Hope    it    works!   
